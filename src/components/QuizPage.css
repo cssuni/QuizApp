@@ -1,0 +1,23 @@
+/* QuizPage.css */
+.quiz-page-container {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .quiz-question {
+    margin-bottom: 20px;
+  }
+  
+  .quiz-question p {
+    font-weight: bold;
+  }
+  
+  .quiz-question ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .quiz-question li {
+    margin: 5px 0;
+  }
+  

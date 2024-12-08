@@ -1,0 +1,14 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+h1 {
+  color: #61dafb;
+  font-size: 48px;
+  margin-top: 20px;
+}
